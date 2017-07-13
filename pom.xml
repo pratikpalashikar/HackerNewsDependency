@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.firebaseio.hacker_news</groupId>
-  <artifactId>hacker-news</artifactId>
+  <artifactId>hackernews</artifactId>
   <packaging>jar</packaging>
-  <name>hacker-news</name>
+  <name>hackernews</name>
   <version>0.0.45</version>
   <scm>
     <connection>scm:git:git@github.com:wordnik/swagger-mustache.git</connection>
